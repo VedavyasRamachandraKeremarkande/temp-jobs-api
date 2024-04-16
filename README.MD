@@ -1,5 +1,8 @@
 #### Project Setup
 
+deployed at 
+https://temp-jobs-api-31xa.onrender.com
+
 In order to spin up the project, in the root create .env with these two variables, with your own values.
 
 MONGO_URI
